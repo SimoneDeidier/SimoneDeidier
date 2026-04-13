@@ -23,13 +23,18 @@
 
 ## Currently Building / Next Release 🚀
 
-I am shaping my next game-dev chapter and prototyping what comes next 🎯:
+I am currently working on a new pixel-art game built with Godot 🎮:
 
-- Polishing rendering and gameplay programming skills through personal prototypes 🎮
-- Exploring AI techniques that can improve game behaviors and player experience 🤖
-- Combining secure software engineering practices with interactive systems design 🔐
+- Developing gameplay systems and core mechanics with my first serious game-engine workflow 🧠
+- Creating pixel art and animations with LibreSprite 🎨
+- Writing and refining the story, world-building, and narrative direction ✍️
 
-More concrete milestones are coming soon 🧩.
+<p>
+	<img src="https://img.shields.io/badge/Stack-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot stack" />
+	<img src="https://img.shields.io/badge/Stack-LibreSprite-FF6B35?style=flat-square&logoColor=white" alt="LibreSprite stack" />
+</p>
+
+This is my first real serious game project built with a game engine, and I am putting full focus into it 🚀.
 
 ---
 
@@ -60,7 +65,9 @@ Technologies and tools I actively use across projects 👇
 	<img src="https://img.shields.io/badge/Java%20Servlet-ED8B00?style=flat-square&logoColor=white" alt="Java Servlet" />
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 	<img src="https://img.shields.io/badge/Graphics%20%26%20Game%20Dev-111827?style=flat-square" alt="Graphics and game dev" />
+	<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot" />
 	<img src="https://img.shields.io/badge/Vulkan-A41E22?style=flat-square&logo=vulkan&logoColor=white" alt="Vulkan" />
+	<img src="https://img.shields.io/badge/LibreSprite-FF6B35?style=flat-square&logoColor=white" alt="LibreSprite" />
 	<img src="https://img.shields.io/badge/AI%20Algorithms-0E7490?style=flat-square" alt="AI Algorithms" />
 	<img src="https://img.shields.io/badge/Parallel%20Computing-111827?style=flat-square" alt="Parallel computing" />
 	<img src="https://img.shields.io/badge/MPI-00599C?style=flat-square&logoColor=white" alt="MPI" />
@@ -120,8 +127,6 @@ The projects that best represent my current direction as a developer 🔥.
 <p align="center">
 	<a href="https://github.com/SimoneDeidier/CG-PROJECT-2024"><img src="https://gh-card.dev/repos/SimoneDeidier/CG-PROJECT-2024.svg" alt="CG-PROJECT-2024 repo card" /></a>
 	<a href="https://github.com/SimoneDeidier/SE1-PROJECT-2023"><img src="https://gh-card.dev/repos/SimoneDeidier/SE1-PROJECT-2023.svg" alt="SE1-PROJECT-2023 repo card" /></a>
-</p>
-<p align="center">
 	<a href="https://github.com/SimoneDeidier/DIMA-PROJECT-2025"><img src="https://gh-card.dev/repos/SimoneDeidier/DIMA-PROJECT-2025.svg" alt="DIMA-PROJECT-2025 repo card" /></a>
 </p>
 
