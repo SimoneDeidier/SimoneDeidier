@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="https://github.com/SimoneDeidier">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=700&color=FF6B35&center=true&vCenter=true&width=900&lines=Player+at+heart%2C+developer+by+choice+%F0%9F%8E%AE;Building+interactive+worlds+with+C%2B%2B%2C+Vulkan+and+JavaFX;MSc+student+%40+Politecnico+di+Milano;Currently+researching+Computer+Security+at+NECST+Lab" alt="Typing introduction" />
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=700&color=FF6B35&center=true&vCenter=true&width=900&lines=Player+at+heart%2C+developer+by+choice+%F0%9F%8E%AE;Building+interactive+worlds;MSc+student+%40+Politecnico+di+Milano;Currently+researching+Computer+Security+at+NECST+Lab" alt="Typing introduction" />
 	</a>
 </p>
 
@@ -118,11 +118,11 @@ Some of the projects I am most proud of, from game development to systems and so
 The projects that best represent my current direction as a developer 🔥.
 
 <p align="center">
-	<a href="https://github.com/SimoneDeidier/CG-PROJECT-2024"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SimoneDeidier&repo=CG-PROJECT-2024&theme=transparent&hide_border=true" alt="CG-PROJECT-2024 repo card" /></a>
-	<a href="https://github.com/SimoneDeidier/SE1-PROJECT-2023"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SimoneDeidier&repo=SE1-PROJECT-2023&theme=transparent&hide_border=true" alt="SE1-PROJECT-2023 repo card" /></a>
+	<a href="https://github.com/SimoneDeidier/CG-PROJECT-2024"><img src="https://gh-card.dev/repos/SimoneDeidier/CG-PROJECT-2024.svg" alt="CG-PROJECT-2024 repo card" /></a>
+	<a href="https://github.com/SimoneDeidier/SE1-PROJECT-2023"><img src="https://gh-card.dev/repos/SimoneDeidier/SE1-PROJECT-2023.svg" alt="SE1-PROJECT-2023 repo card" /></a>
 </p>
 <p align="center">
-	<a href="https://github.com/SimoneDeidier/DIMA-PROJECT-2025"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SimoneDeidier&repo=DIMA-PROJECT-2025&theme=transparent&hide_border=true" alt="DIMA-PROJECT-2025 repo card" /></a>
+	<a href="https://github.com/SimoneDeidier/DIMA-PROJECT-2025"><img src="https://gh-card.dev/repos/SimoneDeidier/DIMA-PROJECT-2025.svg" alt="DIMA-PROJECT-2025 repo card" /></a>
 </p>
 
 ---
@@ -130,8 +130,8 @@ The projects that best represent my current direction as a developer 🔥.
 ## GitHub Snapshot 📈
 
 <p align="center">
-	<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SimoneDeidier&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-	<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SimoneDeidier&layout=compact&hide_border=true" alt="Top languages" />
+	<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimoneDeidier&theme=transparent" alt="GitHub stats" />
+	<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimoneDeidier&theme=transparent" alt="Top languages" />
 </p>
 
 ---
