@@ -1,21 +1,39 @@
 <h1 align="center">Hi, I'm Simone Deidier</h1>
-<h3 align="center">Independent Game Developer in the Making | MSc Computer Science @ Polimi</h3>
+<h3 align="center">Indie Game Developer | MSc Computer Science @ Polimi</h3>
 
 <p align="center">
 	<a href="https://github.com/SimoneDeidier">
-		<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=800&color=1DB954&center=true&vCenter=true&width=850&lines=Designing+games+and+interactive+systems;Building+with+C%2B%2B%2C+Vulkan%2C+JavaFX+and+Flutter;MSc+student+%40+Politecnico+di+Milano;Thesis+researcher+at+NECST+Lab+in+Computer+Security" alt="Typing introduction" />
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=700&color=FF6B35&center=true&vCenter=true&width=900&lines=Player+at+heart%2C+developer+by+choice+%F0%9F%8E%AE;Building+interactive+worlds+with+C%2B%2B%2C+Vulkan+and+JavaFX;MSc+student+%40+Politecnico+di+Milano;Currently+researching+Computer+Security+at+NECST+Lab" alt="Typing introduction" />
 	</a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/SimoneDeidier?tab=followers"><img src="https://img.shields.io/github/followers/SimoneDeidier?label=Followers&style=for-the-badge&color=0A66C2" alt="GitHub followers" /></a>
-	<a href="https://github.com/SimoneDeidier?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-Portfolio-blueviolet?style=for-the-badge" alt="Public repositories" /></a>
-	<img src="https://komarev.com/ghpvc/?username=SimoneDeidier&style=for-the-badge&color=brightgreen" alt="Profile views" />
+	<a href="https://github.com/SimoneDeidier?tab=followers"><img src="https://img.shields.io/github/followers/SimoneDeidier?label=Followers&style=for-the-badge&color=0E7490" alt="GitHub followers" /></a>
+	<a href="https://github.com/SimoneDeidier?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-Open%20Projects-FF6B35?style=for-the-badge" alt="Public repositories" /></a>
+	<img src="https://komarev.com/ghpvc/?username=SimoneDeidier&style=for-the-badge&color=F59E0B" alt="Profile views" />
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Brand-Arcade%20Craft-orange?style=flat-square" alt="Brand badge" />
+	<img src="https://img.shields.io/badge/Tone-Playable%20%26%20Engineered-0E7490?style=flat-square" alt="Tone badge" />
+	<img src="https://img.shields.io/badge/Focus-Indie%20Game%20Dev-111827?style=flat-square" alt="Focus badge" />
 </p>
 
 ---
 
-## About Me
+## Currently Building / Next Release 🚀
+
+I am currently shaping my next game-dev chapter:
+
+- polishing rendering and gameplay programming skills through personal prototypes 🎮
+- exploring AI techniques that can improve game behaviors and player experience 🤖
+- combining secure software engineering practices with interactive systems design 🔐
+
+The next release section is intentionally lightweight for now: I will expand it with concrete milestones soon.
+
+---
+
+## About Me 🕹️
 
 I am a passionate gamer turned aspiring independent game developer.
 
@@ -23,11 +41,11 @@ Video games have been my world for years, and that passion is exactly what pushe
 
 I am currently in the final year of my MSc in **Computer Science and Engineering**, and I am working on my thesis at **NECST Lab** in the field of **Computer Security**.
 
-My goal is to blend strong software engineering foundations with game design creativity to build meaningful interactive experiences.
+My goal is to blend strong software engineering foundations with game design creativity to build meaningful interactive experiences that feel fun, polished, and memorable.
 
 ---
 
-## Tech Playground
+## Tech Playground 🛠️
 
 <p>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
@@ -37,12 +55,23 @@ My goal is to blend strong software engineering foundations with game design cre
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+	<img src="https://img.shields.io/badge/MPI-00599C?style=flat-square&logoColor=white" alt="MPI" />
+	<img src="https://img.shields.io/badge/OpenMP-0E7490?style=flat-square&logoColor=white" alt="OpenMP" />
+	<img src="https://img.shields.io/badge/Pthreads-334155?style=flat-square&logoColor=white" alt="Pthreads" />
+	<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+	<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+	<img src="https://img.shields.io/badge/VHDL-6B7280?style=flat-square&logoColor=white" alt="VHDL" />
+	<img src="https://img.shields.io/badge/IoT-0EA5E9?style=flat-square&logoColor=white" alt="IoT" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## Featured Projects
+## Featured Projects 🌟
 
 | Project | What I Built | Stack |
 |---|---|---|
@@ -50,32 +79,38 @@ My goal is to blend strong software engineering foundations with game design cre
 | [SE1-PROJECT-2023](https://github.com/SimoneDeidier/SE1-PROJECT-2023) | A digital multiplayer adaptation of the board game *My Shelfie* with online play support. | Java, JavaFX, Networking |
 | [ItoAI-ASSIGNMENTS-2024](https://github.com/SimoneDeidier/ItoAI-ASSIGNMENTS-2024) | Study and implementation of core AI algorithms, including techniques relevant to game intelligence. | Python, AI Algorithms |
 | [DIMA-PROJECT-2025](https://github.com/SimoneDeidier/DIMA-PROJECT-2025) | Cross-platform mobile app developed with Flutter in collaboration with AVIS Varese. | Flutter, Dart |
+| [IoT-CHALLENGES-2025](https://github.com/SimoneDeidier/IoT-CHALLENGES-2025) | Practical and theoretical challenges focused on Internet of Things systems. | IoT, Embedded Concepts |
+| [SE2-PROJECT-2024](https://github.com/SimoneDeidier/SE2-PROJECT-2024) | Requirements and design documentation for a large-scale software project (RASD + DD). | Software Engineering, Documentation |
+| [PC-ASSIGNMENTS-2024](https://github.com/SimoneDeidier/PC-ASSIGNMENTS-2024) | Parallel programming assignments using distributed and shared memory models, with GPU acceleration. | MPI, OpenMP, Pthreads, CUDA |
+| [TIW-PROJECT-2023](https://github.com/SimoneDeidier/TIW-PROJECT-2023) | Full-stack web application developed both as pure HTML and as a Rich Internet Application. | Backend, Frontend, Web Apps |
+| [VLDDV-ASSIGNMENTS-2024](https://github.com/SimoneDeidier/VLDDV-ASSIGNMENTS-2024) | SQL and NoSQL (MongoDB) analysis on very large datasets, including queries and data analytics workflows. | SQL, MongoDB, Data Analysis |
+| [API-PROJECT-2023](https://github.com/SimoneDeidier/API-PROJECT-2023) | Project focused on data structures and algorithms to maximize time and space efficiency. | Algorithms, Data Structures |
+| [RL-PROJECT-2023](https://github.com/SimoneDeidier/RL-PROJECT-2023) | VHDL project implementing an FSM component to interface with data memory. | VHDL, FSM, Digital Design |
 
 ---
 
-## Repository Highlights
+## Top 3 Picks 🏆
 
 <p align="center">
-	<a href="https://github.com/SimoneDeidier/CG-PROJECT-2024"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SimoneDeidier&repo=CG-PROJECT-2024&theme=transparent" alt="CG-PROJECT-2024 repo card" /></a>
-	<a href="https://github.com/SimoneDeidier/SE1-PROJECT-2023"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SimoneDeidier&repo=SE1-PROJECT-2023&theme=transparent" alt="SE1-PROJECT-2023 repo card" /></a>
+	<a href="https://github.com/SimoneDeidier/CG-PROJECT-2024"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SimoneDeidier&repo=CG-PROJECT-2024&theme=transparent&hide_border=true" alt="CG-PROJECT-2024 repo card" /></a>
+	<a href="https://github.com/SimoneDeidier/SE1-PROJECT-2023"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SimoneDeidier&repo=SE1-PROJECT-2023&theme=transparent&hide_border=true" alt="SE1-PROJECT-2023 repo card" /></a>
 </p>
 <p align="center">
-	<a href="https://github.com/SimoneDeidier/ItoAI-ASSIGNMENTS-2024"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SimoneDeidier&repo=ItoAI-ASSIGNMENTS-2024&theme=transparent" alt="ItoAI-ASSIGNMENTS-2024 repo card" /></a>
-	<a href="https://github.com/SimoneDeidier/DIMA-PROJECT-2025"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SimoneDeidier&repo=DIMA-PROJECT-2025&theme=transparent" alt="DIMA-PROJECT-2025 repo card" /></a>
-</p>
-
----
-
-## GitHub Snapshot
-
-<p align="center">
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=SimoneDeidier&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneDeidier&layout=compact&hide_border=true" alt="Top languages" />
+	<a href="https://github.com/SimoneDeidier/DIMA-PROJECT-2025"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SimoneDeidier&repo=DIMA-PROJECT-2025&theme=transparent&hide_border=true" alt="DIMA-PROJECT-2025 repo card" /></a>
 </p>
 
 ---
 
-## Beyond Code
+## GitHub Snapshot 📈
+
+<p align="center">
+	<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SimoneDeidier&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+	<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SimoneDeidier&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## Beyond Code 🎲
 
 I have been deeply passionate about tabletop role-playing games for over 5 years.
 
@@ -85,4 +120,24 @@ I love being both a player and, especially, a Game Master. So far I have run cam
 - Blacksad RPG
 - Not the End
 
+I have also studied and explored these systems:
+
+- Avventure nella Terra di Mezzo (5E)
+- Inferno (5E)
+- Memento Mori
+- and soon, Adventure Time RPG!
+
 Storytelling, systems design, and collaborative creativity from TTRPGs strongly influence how I approach game development.
+
+---
+
+## Let's Connect 🤝
+
+I am open to collaborations, game-dev chats, and new opportunities.
+
+<p align="center">
+	<a href="https://github.com/SimoneDeidier"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+	<a href="https://www.linkedin.com/in/simonedeidier/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+	<a href="https://www.instagram.com/simonedeidier/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+	<a href="mailto:simonedeidier01@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
