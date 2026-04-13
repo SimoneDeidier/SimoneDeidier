@@ -19,6 +19,29 @@
 	<img src="https://img.shields.io/badge/Focus-Indie%20Game%20Dev-111827?style=flat-square" alt="Focus badge" />
 </p>
 
+## Table of Contents 📚
+
+- [Status / Availability](#status--availability-)
+- [Currently Building / Next Release](#currently-building--next-release-)
+- [About Me](#about-me-️)
+- [Tech Playground](#tech-playground-️)
+- [Featured Projects](#featured-projects-)
+- [Top 3 Picks](#top-3-picks-)
+- [GitHub Snapshot](#github-snapshot-)
+- [Beyond Code](#beyond-code-)
+- [Let's Connect](#lets-connect-)
+<!-- - [Roadmap](#roadmap-️) -->
+
+---
+
+## Status / Availability 🟢
+
+<p>
+	<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-22C55E?style=for-the-badge" alt="Open to collaborations" />
+	<img src="https://img.shields.io/badge/Focus-Game%20%26%20Graphics%20Programming-0E7490?style=for-the-badge" alt="Current focus" />
+	<img src="https://img.shields.io/badge/Availability-Open%20to%20new%20full--time%20Game%20Dev%20opportunities-F59E0B?style=for-the-badge" alt="Availability" />
+</p>
+
 ---
 
 ## Currently Building / Next Release 🚀
@@ -35,6 +58,16 @@ I am currently working on a **new pixel-art game** built with **Godot** 🎮:
 </p>
 
 This is my **first real serious game project** built with a game engine, and I am putting **full focus** into it 🚀.
+
+<!--
+---
+
+## Roadmap 🗺️
+
+- [ ] Define upcoming milestones for the current Godot game
+- [ ] Share target timeline for the first playable release
+- [ ] Add medium-term game development goals
+-->
 
 ---
 
