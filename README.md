@@ -23,34 +23,34 @@
 
 ## Currently Building / Next Release 🚀
 
-I am currently working on a new pixel-art game built with Godot 🎮:
+I am currently working on a **new pixel-art game** built with **Godot** 🎮:
 
-- Developing gameplay systems and core mechanics with my first serious game-engine workflow 🧠
-- Creating pixel art and animations with LibreSprite 🎨
-- Writing and refining the story, world-building, and narrative direction ✍️
+- Developing **gameplay systems** and **core mechanics** with my *first serious game-engine workflow* 🧠
+- Creating **pixel art** and **animations** with **LibreSprite** 🎨
+- Writing and refining the **story**, **world-building**, and **narrative direction** ✍️
 
 <p>
 	<img src="https://img.shields.io/badge/Stack-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot stack" />
 	<img src="https://img.shields.io/badge/Stack-LibreSprite-FF6B35?style=flat-square&logoColor=white" alt="LibreSprite stack" />
 </p>
 
-This is my first real serious game project built with a game engine, and I am putting full focus into it 🚀.
+This is my **first real serious game project** built with a game engine, and I am putting **full focus** into it 🚀.
 
 ---
 
 ## About Me 🕹️
 
-I am a passionate gamer turned aspiring independent game developer 🎮.
+I am a **passionate gamer** turned aspiring **independent game developer** 🎮.
 
-That passion led me to study Computer Engineering at Politecnico di Milano, where I am now in the final year of my MSc in **Computer Science and Engineering** 📚.
+That passion led me to study **Computer Engineering** at **Politecnico di Milano**, where I am now in the final year of my MSc in **Computer Science and Engineering** 📚.
 
-I am currently working on my thesis at **NECST Lab** in **Computer Security**, with the goal of blending strong engineering foundations and game design creativity to build polished, memorable interactive experiences 🔐✨.
+I am currently working on my thesis at **NECST Lab** in **Computer Security**, with the goal of blending **strong engineering foundations** and **game design creativity** to build polished, memorable interactive experiences 🔐✨.
 
 ---
 
 ## Tech Playground 🛠️
 
-Technologies and tools I actively use across projects 👇
+**Technologies and tools** I actively use across projects 👇
 
 <p>
 	<img src="https://img.shields.io/badge/Languages-111827?style=flat-square" alt="Languages" />
@@ -102,27 +102,27 @@ Technologies and tools I actively use across projects 👇
 
 ## Featured Projects 🌟
 
-Some of the projects I am most proud of, from game development to systems and software engineering 🚀.
+Some of the projects I am most proud of, from **game development** to **systems and software engineering** 🚀.
 
 | Project | What I Built | Stack |
 |---|---|---|
-| [CG-PROJECT-2024](https://github.com/SimoneDeidier/CG-PROJECT-2024) | A small game developed in C++ with Vulkan, focused on real-time graphics and engine-level programming. | C++, Vulkan |
-| [SE1-PROJECT-2023](https://github.com/SimoneDeidier/SE1-PROJECT-2023) | A digital multiplayer adaptation of the board game *My Shelfie* with online play support. | Java, JavaFX, RMI, TCP |
-| [ItoAI-ASSIGNMENTS-2024](https://github.com/SimoneDeidier/ItoAI-ASSIGNMENTS-2024) | Study and implementation of core AI algorithms, including techniques relevant to game intelligence. | Python, AI Algorithms |
-| [DIMA-PROJECT-2025](https://github.com/SimoneDeidier/DIMA-PROJECT-2025) | Cross-platform mobile app developed with Flutter in collaboration with AVIS Varese. | Flutter, Dart |
-| [IoT-CHALLENGES-2025](https://github.com/SimoneDeidier/IoT-CHALLENGES-2025) | Practical and theoretical challenges focused on Internet of Things systems. | Python, ESP32, Wokwi, Wireshark, LoRa, Node-RED |
-| [SE2-PROJECT-2024](https://github.com/SimoneDeidier/SE2-PROJECT-2024) | Requirements and design documentation for a large-scale software project (RASD + DD). | Software Engineering, Documentation, Alloy |
-| [PC-ASSIGNMENTS-2024](https://github.com/SimoneDeidier/PC-ASSIGNMENTS-2024) | Parallel programming assignments using distributed and shared memory models, including GPU acceleration. | MPI, OpenMP, Pthreads, CUDA |
-| [TIW-PROJECT-2023](https://github.com/SimoneDeidier/TIW-PROJECT-2023) | Full-stack web application developed both as pure HTML and as a Rich Internet Application. | SQL, Java Servlet, HTML, CSS, JavaScript |
-| [VLDDV-ASSIGNMENTS-2024](https://github.com/SimoneDeidier/VLDDV-ASSIGNMENTS-2024) | SQL and NoSQL (MongoDB) analysis on very large datasets, including querying and analytics workflows. | SQL, MongoDB, Data Analysis |
-| [API-PROJECT-2023](https://github.com/SimoneDeidier/API-PROJECT-2023) | Project focused on data structures and algorithms to maximize time and space efficiency. | C, Algorithms, Data Structures |
-| [RL-PROJECT-2023](https://github.com/SimoneDeidier/RL-PROJECT-2023) | VHDL project implementing an FSM component to interface with data memory. | VHDL, FSM, Digital Design |
+| [CG-PROJECT-2024](https://github.com/SimoneDeidier/CG-PROJECT-2024) | A small game developed in **C++** with **Vulkan**, focused on *real-time graphics* and *engine-level programming*. | **C++**, **Vulkan** |
+| [SE1-PROJECT-2023](https://github.com/SimoneDeidier/SE1-PROJECT-2023) | A digital multiplayer adaptation of the board game *My Shelfie* with online play support. | **Java**, **JavaFX**, **RMI**, **TCP** |
+| [ItoAI-ASSIGNMENTS-2024](https://github.com/SimoneDeidier/ItoAI-ASSIGNMENTS-2024) | Study and implementation of core **AI algorithms**, including techniques relevant to game intelligence. | **Python**, **AI Algorithms** |
+| [DIMA-PROJECT-2025](https://github.com/SimoneDeidier/DIMA-PROJECT-2025) | Cross-platform mobile app developed with **Flutter** in collaboration with **AVIS Varese**. | **Flutter**, **Dart** |
+| [IoT-CHALLENGES-2025](https://github.com/SimoneDeidier/IoT-CHALLENGES-2025) | Practical and theoretical challenges focused on **Internet of Things** systems. | **Python**, **ESP32**, **Wokwi**, **Wireshark**, **LoRa**, **Node-RED** |
+| [SE2-PROJECT-2024](https://github.com/SimoneDeidier/SE2-PROJECT-2024) | Requirements and design documentation for a large-scale software project (**RASD + DD**). | **Software Engineering**, **Documentation**, **Alloy** |
+| [PC-ASSIGNMENTS-2024](https://github.com/SimoneDeidier/PC-ASSIGNMENTS-2024) | Parallel programming assignments using distributed and shared memory models, including **GPU acceleration**. | **MPI**, **OpenMP**, **Pthreads**, **CUDA** |
+| [TIW-PROJECT-2023](https://github.com/SimoneDeidier/TIW-PROJECT-2023) | Full-stack web application developed both as pure HTML and as a **Rich Internet Application**. | **SQL**, **Java Servlet**, **HTML**, **CSS**, **JavaScript** |
+| [VLDDV-ASSIGNMENTS-2024](https://github.com/SimoneDeidier/VLDDV-ASSIGNMENTS-2024) | **SQL** and **NoSQL (MongoDB)** analysis on very large datasets, including querying and analytics workflows. | **SQL**, **MongoDB**, **Data Analysis** |
+| [API-PROJECT-2023](https://github.com/SimoneDeidier/API-PROJECT-2023) | Project focused on **data structures** and **algorithms** to maximize time and space efficiency. | **C**, **Algorithms**, **Data Structures** |
+| [RL-PROJECT-2023](https://github.com/SimoneDeidier/RL-PROJECT-2023) | **VHDL** project implementing an **FSM** component to interface with data memory. | **VHDL**, **FSM**, **Digital Design** |
 
 ---
 
 ## Top 3 Picks 🏆
 
-The projects that best represent my current direction as a developer 🔥.
+The projects that best represent my **current direction** as a developer 🔥.
 
 <p align="center">
 	<a href="https://github.com/SimoneDeidier/CG-PROJECT-2024"><img src="https://gh-card.dev/repos/SimoneDeidier/CG-PROJECT-2024.svg" alt="CG-PROJECT-2024 repo card" /></a>
@@ -143,9 +143,9 @@ The projects that best represent my current direction as a developer 🔥.
 
 ## Beyond Code 🎲
 
-I have been deeply passionate about tabletop role-playing games for over 5 years 🎭.
+I have been deeply passionate about **tabletop role-playing games** for over **5 years** 🎭.
 
-I love being both a player and, especially, a Game Master. So far I have run campaigns in:
+I love being both a player and, especially, a **Game Master**. So far I have run campaigns in:
 
 - Dungeons & Dragons 5E
 - Blacksad RPG
@@ -158,13 +158,13 @@ I have also studied and explored these systems:
 - Memento Mori
 - and soon, Adventure Time RPG!
 
-Storytelling, systems design, and collaborative creativity from TTRPGs strongly influence how I approach game development.
+**Storytelling**, **systems design**, and **collaborative creativity** from TTRPGs strongly influence how I approach game development.
 
 ---
 
 ## Let's Connect 🤝
 
-I am open to collaborations, game-dev chats, and new opportunities. Feel free to reach out anytime ✉️.
+I am open to **collaborations**, **game-dev chats**, and **new opportunities**. Feel free to reach out anytime ✉️.
 
 <p align="center">
 	<a href="https://github.com/SimoneDeidier"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
