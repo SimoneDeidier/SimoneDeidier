@@ -23,6 +23,7 @@
 
 - [Status / Availability](#status--availability-)
 - [Currently Building / Next Release](#currently-building--next-release-)
+- [Roadmap](#roadmap-️)
 - [About Me](#about-me-️)
 - [Tech Playground](#tech-playground-️)
 - [Featured Projects](#featured-projects-)
@@ -30,7 +31,6 @@
 - [GitHub Snapshot](#github-snapshot-)
 - [Beyond Code](#beyond-code-)
 - [Let's Connect](#lets-connect-)
-<!-- - [Roadmap](#roadmap-️) -->
 
 ---
 
@@ -50,7 +50,7 @@ I am currently working on a **new pixel-art game** built with **Godot** 🎮:
 
 - Developing **gameplay systems** and **core mechanics** with my *first serious game-engine workflow* 🧠
 - Creating **pixel art** and **animations** with **LibreSprite** 🎨
-- Writing and refining the **story**, **world-building**, and **narrative direction** ✍️
+- Building **professional-grade architecture** with established **game development patterns** and **clean code principles** for scalability and maintainability 🏗️
 
 <p>
 	<img src="https://img.shields.io/badge/Stack-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot stack" />
@@ -59,17 +59,38 @@ I am currently working on a **new pixel-art game** built with **Godot** 🎮:
 
 This is my **first real serious game project** built with a game engine, and I am putting **full focus** into it 🚀.
 
-<!--
----
+**Transparency & Community:**
+- 🎮 The game will be released **free** across game distribution platforms
+- 📂 **Full source code** publicly available on GitHub
+- 📝 Daily **development log** tracking features, improvements, and bug fixes in real-time
 
 ## Roadmap 🗺️
 
-- [ ] Define upcoming milestones for the current Godot game
-- [ ] Share target timeline for the first playable release
-- [ ] Add medium-term game development goals
--->
+### ✅ Completed
 
----
+- [x] **Level Design**: First level layout and progression
+- [x] **Player Character**: Idle, movement, jump, attack, death, and knockback animations and logic
+- [x] **Narrative Setup**: Introductory cutscenes for story context
+- [x] **Visual Assets**: Foreground and background tileset graphics
+- [x] **Dynamic Platforms**: Moving platforms with lever/trigger activation and enemy support
+- [x] **Enemy System**: 2+ enemy types with both static patterns and basic AI pathfinding
+- [x] **Collectibles**: Pickup system for items and rewards
+- [x] **Checkpoint System**: Save/respawn mechanics
+- [x] **In-Game UI**: Player health display, collectible counter, tip texts, autosave notifications
+- [x] **Dialogue System**: Full dialogue framework for cutscenes and character interactions
+
+### 🔧 In Progress
+
+- [ ] Finalizing Level 1 content and flow
+- [ ] Cutscene polish and animation refinement
+- [ ] Boss fight implementation for Level 1
+
+### 🎯 Upcoming
+
+- [ ] Level 2 design and assets
+- [ ] New gameplay mechanics for Level 2
+- [ ] Splash screens and branding
+- [ ] Main menu with dynamic control settings (**Keyboard/Mouse** and **Controller** support)
 
 ## About Me 🕹️
 
@@ -77,7 +98,7 @@ I am a **passionate gamer** turned aspiring **independent game developer** 🎮.
 
 That passion led me to study **Computer Engineering** at **Politecnico di Milano**, where I am now in the final year of my MSc in **Computer Science and Engineering** 📚.
 
-I am currently working on my thesis at **NECST Lab** in **Computer Security**, with the goal of blending **strong engineering foundations** and **game design creativity** to build polished, memorable interactive experiences 🔐✨.
+I am currently working on my thesis at **NECST Lab**, researching **Graph Reinforcement Learning (GRL)** for optimizing **Electric Vehicle Charging Stations (EVCS)** placement in power grids to maximize resilience against **load altering attacks**. The work combines **dynamic electrical simulation**, **network optimization**, and **advanced ML modeling** to strengthen critical infrastructure 🔐⚡.
 
 ---
 
@@ -93,39 +114,57 @@ I am currently working on my thesis at **NECST Lab** in **Computer Security**, w
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+<p>
 	<img src="https://img.shields.io/badge/Frameworks%20%26%20App%20Dev-111827?style=flat-square" alt="Frameworks and app development" />
 	<img src="https://img.shields.io/badge/JavaFX-2C2255?style=flat-square&logo=openjfx&logoColor=white" alt="JavaFX" />
 	<img src="https://img.shields.io/badge/Java%20Servlet-ED8B00?style=flat-square&logoColor=white" alt="Java Servlet" />
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+<p>
 	<img src="https://img.shields.io/badge/Graphics%20%26%20Game%20Dev-111827?style=flat-square" alt="Graphics and game dev" />
 	<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot" />
 	<img src="https://img.shields.io/badge/Vulkan-A41E22?style=flat-square&logo=vulkan&logoColor=white" alt="Vulkan" />
 	<img src="https://img.shields.io/badge/LibreSprite-FF6B35?style=flat-square&logoColor=white" alt="LibreSprite" />
 	<img src="https://img.shields.io/badge/AI%20Algorithms-0E7490?style=flat-square" alt="AI Algorithms" />
+</p>
+<p>
 	<img src="https://img.shields.io/badge/Parallel%20Computing-111827?style=flat-square" alt="Parallel computing" />
 	<img src="https://img.shields.io/badge/MPI-00599C?style=flat-square&logoColor=white" alt="MPI" />
 	<img src="https://img.shields.io/badge/OpenMP-0E7490?style=flat-square&logoColor=white" alt="OpenMP" />
 	<img src="https://img.shields.io/badge/Pthreads-334155?style=flat-square&logoColor=white" alt="Pthreads" />
 	<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+</p>
+<p>
 	<img src="https://img.shields.io/badge/Web-111827?style=flat-square" alt="Web" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 	<img src="https://img.shields.io/badge/Networking-111827?style=flat-square" alt="Networking" />
 	<img src="https://img.shields.io/badge/Java%20RMI-ED8B00?style=flat-square&logoColor=white" alt="Java RMI" />
 	<img src="https://img.shields.io/badge/TCP-0EA5E9?style=flat-square&logoColor=white" alt="TCP" />
+</p>
+<p>
 	<img src="https://img.shields.io/badge/Data-111827?style=flat-square" alt="Data" />
 	<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+<p>
 	<img src="https://img.shields.io/badge/Embedded%20%26%20IoT-111827?style=flat-square" alt="Embedded and IoT" />
 	<img src="https://img.shields.io/badge/ESP32-111827?style=flat-square&logoColor=white" alt="ESP32" />
 	<img src="https://img.shields.io/badge/Wokwi-06B6D4?style=flat-square&logoColor=white" alt="Wokwi" />
 	<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
 	<img src="https://img.shields.io/badge/LoRa-7C3AED?style=flat-square&logoColor=white" alt="LoRa" />
 	<img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" alt="Node-RED" />
+</p>
+<p>
 	<img src="https://img.shields.io/badge/Hardware%20Design-111827?style=flat-square" alt="Hardware design" />
 	<img src="https://img.shields.io/badge/VHDL-6B7280?style=flat-square&logoColor=white" alt="VHDL" />
+</p>
+<p>
 	<img src="https://img.shields.io/badge/Formal%20Methods-111827?style=flat-square" alt="Formal methods" />
 	<img src="https://img.shields.io/badge/Alloy-4B5563?style=flat-square&logoColor=white" alt="Alloy" />
+</p>
+<p>
 	<img src="https://img.shields.io/badge/Tools-111827?style=flat-square" alt="Tools" />
 	<img src="https://img.shields.io/badge/IoT-0EA5E9?style=flat-square&logoColor=white" alt="IoT" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
